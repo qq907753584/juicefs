@@ -262,4 +262,4 @@ JuiceFS S3 Gateway is the solution in these scenarios: by deploying a gateway in
 
 ![sync via gateway](../images/sync-via-gateway.svg)
 
-Read [S3 Gateway](../s3_gateway.md) to learn its deployment and use.
+Read [JuiceFS S3 Gateway](../deployment/s3_gateway.md) to learn its deployment and use.
